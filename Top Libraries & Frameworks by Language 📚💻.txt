@@ -1,0 +1,52 @@
+❯ Python
+ • Pandas ➟ Data Analysis
+ • NumPy ➟ Math & Arrays
+ • Scikit-learn ➟ Machine Learning
+ • TensorFlow / PyTorch ➟ Deep Learning
+ • Flask / Django ➟ Web Development
+ • OpenCV ➟ Image Processing
+
+❯ JavaScript / TypeScript
+ • React ➟ UI Development
+ • Vue ➟ Lightweight SPAs
+ • Angular ➟ Enterprise Apps
+ • Next.js ➟ Full-Stack Web
+ • Express ➟ Backend APIs
+ • Three.js ➟ 3D Web Graphics
+
+❯ Java
+ • Spring Boot ➟ Microservices
+ • Hibernate ➟ ORM
+ • Apache Maven ➟ Build Automation
+ • Apache Kafka ➟ Real-Time Data
+
+❯ C++
+ • Boost ➟ Utility Libraries
+ • Qt ➟ GUI Applications
+ • Unreal Engine ➟ Game Development
+
+❯ C#
+ • .NET / ASP.NET ➟ Web Apps
+ • Unity ➟ Game Development
+ • Entity Framework ➟ ORM
+
+❯ R
+ • ggplot2 ➟ Data Visualization
+ • dplyr ➟ Data Manipulation
+ • caret ➟ Machine Learning
+ • Shiny ➟ Interactive Dashboards
+
+❯ PHP
+ • Laravel ➟ Full-Stack Web
+ • Symfony ➟ Web Framework
+ • PHPUnit ➟ Testing
+
+❯ Go (Golang)
+ • Gin ➟ Web Framework
+ • Gorilla ➟ Web Toolkit
+ • GORM ➟ ORM for Go
+
+❯ Rust
+ • Actix ➟ Web Framework
+ • Rocket ➟ Web Development
+ • Tokio ➟ Async Runtime

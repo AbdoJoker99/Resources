@@ -1,0 +1,86 @@
+Essential Topics to Master Data Science Interviews: 🚀
+
+SQL (https://bit.ly/3FxxKPz):
+1. Foundations
+   - Craft SELECT statements with WHERE, ORDER BY, GROUP BY, HAVING
+   - Embrace Basic JOINS (INNER, LEFT, RIGHT, FULL)
+   - Navigate through simple databases and tables
+
+2. Intermediate SQL
+   - Utilize Aggregate functions (COUNT, SUM, AVG, MAX, MIN)
+   - Embrace Subqueries and nested queries
+   - Master Common Table Expressions (WITH clause)
+   - Implement CASE statements for logical queries
+
+3. Advanced SQL
+   - Explore Advanced JOIN techniques (self-join, non-equi join)
+   - Dive into Window functions (OVER, PARTITION BY, ROW_NUMBER, RANK, DENSE_RANK, lead, lag)
+   - Optimize queries with indexing
+   - Execute Data manipulation (INSERT, UPDATE, DELETE)
+
+Python (https://t.me/pythonanalyst):
+1. Python Basics
+   - Grasp Syntax, variables, and data types
+   - Command Control structures (if-else, for and while loops)
+   - Understand Basic data structures (lists, dictionaries, sets, tuples)
+   - Master Functions, lambda functions, and error handling (try-except)
+   - Explore Modules and packages
+
+2. Pandas & Numpy
+   - Create and manipulate DataFrames and Series
+   - Perfect Indexing, selecting, and filtering data
+   - Handle missing data (fillna, dropna)
+   - Aggregate data with groupby, summarizing data
+   - Merge, join, and concatenate datasets
+
+3. Data Visualization with Python
+   - Plot with Matplotlib (line plots, bar plots, histograms)
+   - Visualize with Seaborn (scatter plots, box plots, pair plots)
+   - Customize plots (sizes, labels, legends, color palettes)
+   - Introduction to interactive visualizations (e.g., Plotly)
+
+Excel (https://t.me/excel_analyst):
+1. Excel Essentials
+   - Conduct Cell operations, basic formulas (SUMIFS, COUNTIFS, AVERAGEIFS, IF, AND, OR, NOT & Nested Functions etc.)
+   - Dive into charts and basic data visualization
+   - Sort and filter data, use Conditional formatting
+
+2. Intermediate Excel
+   - Master Advanced formulas (V/XLOOKUP, INDEX-MATCH, nested IF)
+   - Leverage PivotTables and PivotCharts for summarizing data
+   - Utilize data validation tools
+   - Employ What-if analysis tools (Data Tables, Goal Seek)
+
+3. Advanced Excel
+   - Harness Array formulas and advanced functions
+   - Dive into Data Model & Power Pivot
+   - Explore Advanced Filter, Slicers, and Timelines in Pivot Tables
+   - Create dynamic charts and interactive dashboards
+
+Power BI: (https://t.me/PowerBI_analyst)
+1. Data Modeling in Power BI
+   - Import data from various sources
+   - Establish and manage relationships between datasets
+   - Grasp Data modeling basics (star schema, snowflake schema)
+
+2. Data Transformation in Power BI
+   - Use Power Query for data cleaning and transformation
+   - Apply advanced data shaping techniques
+   - Create Calculated columns and measures using DAX
+
+3. Data Visualization and Reporting in Power BI
+   - Craft interactive reports and dashboards
+   - Utilize Visualizations (bar, line, pie charts, maps)
+   - Publish and share reports, schedule data refreshes
+
+Statistics Fundamentals:
+- Mean, Median, Mode
+- Standard Deviation, Variance
+- Probability Distributions, Hypothesis Testing
+- P-values, Confidence Intervals
+- Correlation, Simple Linear Regression
+- Normal Distribution, Binomial Distribution, Poisson Distribution.
+
+Show some ❤️ if you're ready to elevate your data science game! 📊
+
+

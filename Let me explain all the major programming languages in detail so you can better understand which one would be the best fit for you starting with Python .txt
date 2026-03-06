@@ -1,0 +1,151 @@
+Python Programming Roadmap
+
+Python is beginner-friendly, used in web dev, data science, AI, automation, and is often the first choice for programming newbies.
+
+Step 1: Learn the Basics
+ Time: 1–2 weeks
+
+Variables (name = "John")
+
+Data Types (int, float, string, list, etc.)
+
+Input and Output (input(), print())
+
+Operators (+, -, *, /, %, //)
+
+Indentation and Syntax rules
+
+
+*Practice Ideas:* 
+
+Build a simple calculator
+
+Create a name greeter
+
+Make a temperature converter
+
+
+ Resources :
+
+- w3schools
+
+- freeCodeCamp 
+
+Step 2: Control Flow and Loops
+ Time: 1 week
+
+- If-else conditions
+
+- For loops and while loops
+
+- Loop control: break, continue, pass
+
+
+ Practice Ideas: 
+
+- FizzBuzz
+
+- Number guessing game
+
+- Print star patterns
+
+
+ Step 3: Data Structures in Python
+ Time: 1–2 weeks
+
+- Lists, Tuples, Sets, Dictionaries
+
+- List Methods: append(), remove(), sort()
+
+- Dictionary Methods: get(), keys(), values()
+
+
+Practice Ideas:
+
+- Create a contact book
+
+- Word frequency counter
+
+- Store student scores in a dictionary
+
+
+Step 4: Functions
+ Time: 1 week
+
+- Define functions using def
+
+- Return statements
+
+- Arguments and Parameters (*args, **kwargs)
+
+- Variable Scope
+
+
+*Practice Ideas:* 
+
+- ATM simulator
+
+- Password generator
+
+- Function-based calculator
+
+
+Step 5: File Handling and Exceptions
+ Time: 1 week
+
+- Open, read, write files
+
+- Use of with open(...) as f:
+
+- Try-Except blocks
+
+
+Practice Ideas:
+
+- Log user data to a file
+
+- Read and analyze text files
+
+- Save login data
+
+
+Step 6: Object-Oriented Programming (OOP)
+ Time: 1–2 weeks
+
+- Classes and Objects
+
+- The init() constructor
+
+- Inheritance
+
+- Encapsulation
+
+
+ *Practice Ideas* :
+
+- Build a class for a Bank Account
+
+- Design a Library Management System
+
+- Build a Rental System
+
+
+ Step 7: Choose any Specialization Track
+
+a. Data Science & ML
+Learn: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+Projects: Analyze sales data, build prediction models
+
+b. Web Development
+Learn: Flask or Django, HTML, CSS, SQLite/PostgreSQL
+Projects: Portfolio site, blog app, task manager
+
+c. Automation/Scripting
+Learn: Selenium, PyAutoGUI, os module, shutil
+Projects: Auto-login bot, bulk file renamer, web scraper
+
+d. AI & Deep Learning
+Learn: TensorFlow, PyTorch, OpenCV
+Projects: Image classification, face detection, chatbots
+
+ Final Step: Build Projects & Share on GitHub

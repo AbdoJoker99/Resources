@@ -1,0 +1,52 @@
+Data Science Cheatsheet
+
+https://github.com/aaronwangy/Data-Science-Cheatsheet
+
+SQL Cheatsheet
+
+sqltutorial.org/sql-cheat-sheet
+
+t.me/sqlspecialist/827
+
+https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf
+
+Java Programming Cheatsheet
+
+https://introcs.cs.princeton.edu/java/11cheatsheet/
+
+Javascript Cheatsheet 
+
+quickref.me/javascript.html
+
+t.me/javascript_courses/532
+
+Data Analytics Cheatsheets
+
+https://dataanalytics.beehiiv.com/p/data
+
+Python Cheat sheet
+
+quickref.me/python.html
+
+https://t.me/pythondevelopersindia/314
+
+GIT and Machine Learning Cheatsheet
+
+https://t.me/datasciencefun/714
+
+HTML Cheatsheet
+
+https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+
+htmlcheatsheet.com
+
+CSS Cheatsheet 
+
+htmlcheatsheet.com/css
+
+jQuery Cheatsheet 
+
+t.me/webdevelopmentbook/90
+
+Data Visualization 
+t.me/datasciencefun/698

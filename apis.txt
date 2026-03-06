@@ -1,0 +1,156 @@
+EXTRACTED APIs FROM ALL FILES
+=============================
+
+PUBLIC APIs:
+-----------
+1. http://restcountries.com - Country data API
+2. http://trefle.io - Plants data API
+3. http://api.nasa.gov - Space-related API
+4. http://developer.spotify.com - Music data API
+5. http://newsapi.org - Access news articles
+6. http://sunrise-sunset.org/api - Sunrise and sunset times API
+7. http://pokeapi.co - Pokémon data API
+8. http://omdbapi.com - Movie database API
+9. http://catfact.ninja - Cat facts API
+10. http://thedogapi.com - Dog picture API
+11. https://public-apis.io/ - Public APIs directory
+12. https://api.openweathermap.org/data/2.5 - OpenWeatherMap API
+13. https://api.themoviedb.org/3/configuration - The Movie Database API
+
+ML/AI APIs & DOCUMENTATION:
+---------------------------
+14. https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/ - TensorFlow Object Detection API
+15. https://pytorch.org/docs/stable/hub.html - PyTorch Hub
+16. https://chat.openai.com/share/a9f871f1-ea75-4a2a-99d0-c402bf09e4c7 - ChatGPT Share
+17. https://purrfect-drug-c82.notion.site/362a7d6ea21b4a509bccb21f1ec2867b - Notion API (inferred)
+
+DATABASE APIs:
+--------------
+18. https://cloud.mongodb.com/v2/65937eb6ce6b5032d9031a1d#/overview - MongoDB Atlas
+19. https://www.mysql.com/ - MySQL
+20. https://cloud.mongodb.com/ - MongoDB Cloud
+21. http://mongodb.com - MongoDB
+
+WEB/DEV APIs:
+-------------
+22. https://docs.docker.com/ - Docker Documentation
+23. https://docs.opencv.org/4.x/ - OpenCV Documentation
+24. https://docs.flutter.dev/ - Flutter Documentation
+25. https://developer.mozilla.org/en-US/ - MDN Web Docs
+26. https://docs.python.org/3/tutorial/index.html - Python Documentation
+27. https://docs.python.org/3/library/index.html - Python Library Reference
+
+CODING PLATFORM APIs:
+----------------------
+28. https://www.kaggle.com/learn - Kaggle Learn
+29. https://www.kaggle.com/competitions - Kaggle Competitions
+30. https://www.kaggle.com/datasets - Kaggle Datasets
+31. https://colab.research.google.com/ - Google Colab
+32. https://github.com/ - GitHub
+33. https://stackoverflow.com/ - Stack Overflow
+
+REPL/CODE PLAYGROUNDS:
+----------------------
+34. https://codepen.io/ - CodePen
+35. https://jsfiddle.net/ - JSFiddle
+36. https://jsbin.com/ - JSBin
+37. https://replit.com/ - Replit
+38. https://stackblitz.com/ - StackBlitz
+39. https://codesandbox.io/ - CodeSandbox
+
+GITHUB API ENDPOINTS:
+---------------------
+40. https://github-readme-stats.vercel.app/api - GitHub Stats API
+41. https://github-readme-stats.vercel.app/api/top-langs - GitHub Languages API
+42. https://quotes-github-readme.vercel.app/api - Quotes API
+43. https://github.com/AbdoJoker99/cinema - GitHub Project
+44. https://github.com/cloudcommunity/Free-Certifications - Free Certifications Repo
+
+LEARNING RESOURCES:
+-------------------
+45. https://www.sqlcourse.com/beginner-course/ - SQL Course
+46. https://sqlzoo.net/wiki/SQL_Tutorial - SQLZoo Tutorial
+47. https://www.coursera.org/learn/sql-basics - Coursera SQL
+48. https://mode.com/sql-tutorial - Mode SQL Tutorial
+49. https://www.hackerrank.com/domains/sql - HackerRank SQL
+50. https://www.khanacademy.org/computing/computer-programming/sql - Khan Academy SQL
+51. https://www.freecodecamp.org/ - FreeCodeCamp
+52. https://git-scm.com/book/en/v2 - Pro Git Book
+53. https://www.w3schools.com/ - W3Schools
+
+DESIGN & UI RESOURCES:
+----------------------
+54. https://www.figma.com/ - Figma
+55. https://www.behance.net/ - Behance
+56. https://dribbble.com/ - Dribbble
+57. https://rive.app/ - Rive Animation
+58. https://lottiefiles.com/ - Lottie Files
+59. https://www.sketch.com/ - Sketch
+
+JOB PORTALS:
+------------
+60. https://www.linkedin.com/ - LinkedIn
+61. https://wuzzuf.net/explore - Wuzzuf
+62. https://www.linkedin.com/jobs/ - LinkedIn Jobs
+
+MISC APIs & SERVICES:
+---------------------
+63. https://database.chessbase.com/ - Chess Database
+64. https://pharos.blackboard.com/ - Blackboard LMS
+65. https://regex101.com/ - Regex101
+66. https://ihateregex.io/ - IHateRegex
+67. https://www.hackthebox.com/ - HackTheBox
+68. https://www.hacker101.com/ - Hacker101
+69. https://tryhackme.com/ - TryHackMe
+70. https://www.data.gov/ - US Government Data
+71. https://data.gov.in/ - India Government Data
+72. https://data.worldbank.org/ - World Bank Data
+73. https://archive.ics.uci.edu/ml/index.php - UCI ML Repository
+74. https://public.roboflow.com/ - Roboflow Datasets
+
+TELEGRAM CHANNEL LINKS:
+----------------------
+75. https://t.me/pythonproz - Python Channel
+76. https://t.me/sqlspecialist - SQL Channel
+77. https://t.me/datasciencefun - Data Science Channel
+78. https://t.me/jobs_SQL - SQL Jobs Channel
+79. https://t.me/free4unow_backup - Free Courses Channel
+80. https://whatsapp.com/channel/0029Va4QUHa6rsQjhITHK82y - Data Science WhatsApp Channel
+
+YOUTUBE EDUCATIONAL:
+-------------------
+81. https://www.youtube.com/@javascriptmastery - JavaScript Mastery
+82. https://www.youtube.com/@BZUHUB - BZU Hub
+83. https://www.youtube.com/results?search_query= - YouTube Search
+
+GOOGLE SERVICES:
+---------------
+84. https://drive.google.com/ - Google Drive
+85. https://docs.google.com/ - Google Docs
+86. https://forms.google.com/ - Google Forms
+87. https://colab.research.google.com/ - Google Colab
+
+AWS & CLOUD:
+------------
+88. https://registry.opendata.aws/ - AWS Open Data Registry
+89. https://azure.microsoft.com/ - Microsoft Azure
+90. https://cloud.google.com/ - Google Cloud
+
+MEGA & STORAGE:
+---------------
+91. https://mega.nz/ - MEGA Cloud Storage
+
+CERTIFICATION COURSES:
+----------------------
+92. https://www.udemy.com/ - Udemy
+93. https://www.coursera.org/ - Coursera
+94. https://www.kaggle.com/learn - Kaggle Learn
+
+DATASET SOURCES:
+----------------
+95. https://www.kaggle.com/datasets - Kaggle Datasets
+96. https://www.imdb.com/interfaces/ - IMDb Datasets
+97. https://www.yelp.com/dataset - Yelp Dataset
+98. https://data.nasdaq.com/ - Nasdaq Data
+99. https://academictorrents.com/ - Academic Torrents
+100. https://vision.in.tum.de/data/datasets - TUM Vision Datasets

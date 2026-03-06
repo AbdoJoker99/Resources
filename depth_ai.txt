@@ -1,0 +1,9 @@
+git clone --recursive https://github.com/luxonis/depthai.git
+
+git pull --recurse-submodules 
+
+cd depthai
+
+sudo curl -fL https://docs.luxonis.com/install_dependencies.sh | bash
+
+python install_requirements.py

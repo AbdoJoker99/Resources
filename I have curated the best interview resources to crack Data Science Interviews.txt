@@ -1,0 +1,79 @@
+Data Analyst Roadmap
+👇👇
+https://t.me/sqlspecialist/379
+
+I have curated the best interview resources to crack Data Science Interviews 
+👇👇
+https://whatsapp.com/channel/0029Va4QUHa6rsQjhITHK82y
+
+
+1️⃣ Master Advanced SQL
+
+Foundations: Learn database structures, tables, and relationships.
+
+Basic SQL Commands: SELECT, FROM, WHERE, ORDER BY.
+
+Aggregations: Get hands-on with SUM, COUNT, AVG, MIN, MAX, GROUP BY, and HAVING.
+
+JOINs: Understand LEFT, RIGHT, INNER, OUTER, and CARTESIAN joins.
+
+Advanced Concepts: CTEs, window functions, and query optimization.
+
+Metric Development: Build and report metrics effectively.
+
+
+2️⃣ Study Statistics & A/B Testing
+
+Descriptive Statistics: Know your mean, median, mode, and standard deviation.
+
+Distributions: Familiarize yourself with normal, Bernoulli, binomial, exponential, and uniform distributions.
+
+Probability: Understand basic probability and Bayes' theorem.
+
+Intro to ML: Start with linear regression, decision trees, and K-means clustering.
+
+Experimentation Basics: T-tests, Z-tests, Type 1 & Type 2 errors.
+
+A/B Testing: Design experiments—hypothesis formation, sample size calculation, and sample biases.
+
+
+3️⃣ Learn Python for Data
+
+Data Manipulation: Use pandas for data cleaning and manipulation.
+
+Data Visualization: Explore matplotlib and seaborn for creating visualizations.
+
+Hypothesis Testing: Dive into scipy for statistical testing.
+
+Basic Modeling: Practice building models with scikit-learn.
+
+
+4️⃣ Develop Product Sense
+
+Product Management Basics: Manage projects and understand the product life cycle.
+
+Data-Driven Strategy: Leverage data to inform decisions and measure success.
+
+Metrics in Business: Define and evaluate metrics that matter to the business.
+
+
+5️⃣ Hone Soft Skills
+
+Communication: Clearly explain data findings to technical and non-technical audiences.
+
+Collaboration: Work effectively in teams.
+
+Time Management: Prioritize and manage projects efficiently.
+
+Self-Reflection: Regularly assess and improve your skills.
+
+
+6️⃣ Bonus: Basic Data Engineering
+
+Data Modeling: Understand dimensional modeling and trade-offs in normalization vs. denormalization.
+
+ETL: Set up extraction jobs, manage dependencies, clean and validate data.
+
+Pipeline Testing: Conduct unit testing and ensure data quality throughout the pipeline.
+
+I have curated the best interview resources to crack Data Science Interviews 

@@ -1,0 +1,482 @@
+================================================================================
+EXTRACTED WEB LINKS FROM FINAL.TXT
+================================================================================
+
+EDUCATION & LEARNING PLATFORMS
+--------------------------------------------------------------------------------
+https://www.sqlcourse.com/beginner-course/
+https://www.khanacademy.org/computing/computer-programming/sql
+https://sqlzoo.net/wiki/SQL_Tutorial
+https://www.coursera.org/learn/sql-basics
+https://www.freecodecamp.org/
+https://developer.mozilla.org/en-US/
+https://www.w3schools.com/
+https://www.w3schools.com/colors/colors_names.asp
+https://www.geeksforgeeks.org/videos/
+https://www.tutorialspoint.com/programming_methodologies/programming_methodologies_introduction.htm
+https://medium.com/@tssovi/abstract-data-type-adt-in-python-33e6ce1f961e
+https://stackabuse.com/search-algorithms-in-python/
+https://realpython.com/sorting-algorithms-python/
+https://www.w3schools.com/python/gloss_python_function_recursion.asp
+https://www.mygreatlearning.com/blog/representing-graphs-in-data-structures/
+https://docs.opencv.org/4.x/
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
+https://pytorch.org/docs/stable/hub.html
+https://www.interviewbit.com/courses/programming/
+https://roadmap.sh/roadmaps
+https://roadmap.sh/flutter
+https://www.udemy.com/course/java-se-programming/
+https://www.classcentral.com/subject/flutter
+https://docs.flutter.dev/resources/courses
+https://docs.flutter.dev/release/release-notes
+https://medium.com/flutter/whats-new-in-flutter-3-19-58b1aae242d2
+https://www.futurelearn.com/info/courses/block-to-text-based-programming/0/steps/39492
+https://www.freecodecamp.org/news/file-handling-in-python/
+https://docs.python.org/3/tutorial/index.html
+https://docs.python.org/3/library/index.html
+
+CODING & PROGRAMMING RESOURCES
+--------------------------------------------------------------------------------
+https://github.com/
+https://github.com/AbdoJoker99/mini-projects-web
+https://github.com/JinZhuXing/Fingerprint_TF
+https://github.com/PatwinchIR/Solar-System-Unity3D
+https://github.com/pirple/The-NodeJS-Master-Class/
+https://github.com/SimplifyJobs/New-Grad-Positions
+https://github.com/cloudcommunity/Free-Certifications
+https://codeforces.com/problemset/page/2?order=BY_RATING_ASC
+https://codeforces.com/group/Rilx5irOux/contest/532374
+https://www.codechef.com/
+https://www.hackerrank.com/
+https://www.hackerrank.com/domains/sql
+https://mode.com/sql-tutorial
+https://sqlzoo.net/wiki/SQL_Tutorial
+https://icpc.kattis.com/problems
+https://web.stanford.edu/class/cs97si/
+https://vjudge.net/group/pua-icpc-community
+
+YOUTUBE & VIDEO RESOURCES
+--------------------------------------------------------------------------------
+https://youtube.com/shorts/8ieZNiN5eu0
+https://youtu.be/14qU0DK6j_w
+https://youtu.be/tlGG614W6_o
+https://youtu.be/Q6C6h2qeU0U
+https://youtu.be/IgCa7uH4_rU
+https://youtu.be/_mTIF0F4BRk
+https://youtu.be/bI7ccJTvbrM
+https://youtu.be/jyFH1PqiPP8
+https://youtu.be/BcSp27-HcZk
+https://youtu.be/pEFr1eYIePw
+https://youtu.be/WgPbbWmnXJ8
+https://youtu.be/ZNtNwjKc-Dw
+https://youtu.be/qWDQgmdUzWI
+https://www.youtube.com/watch?v=e2cF8a5aAhE
+https://www.youtube.com/watch?v=osCTb08xzGM
+https://www.youtube.com/watch?v=ra6ErsK9iVs
+https://www.youtube.com/watch?v=txgqfG4rfos
+https://www.youtube.com/watch?v=Q7aGsfUxXL4
+https://www.youtube.com/watch?v=btyCnlRvVZw
+https://www.youtube.com/watch?v=h-HwFwr9SjE
+https://www.youtube.com/watch?v=sm7wUsRXqAs
+https://www.youtube.com/watch?v=utive_G61BY
+https://www.youtube.com/watch?v=sy5bzGMuiN8
+https://www.youtube.com/watch?v=YieMv3sfMqU
+https://www.youtube.com/watch?v=TCwdecGzeJg
+https://www.youtube.com/watch?v=U_r4vemDt34
+https://www.youtube.com/playlist?list=PL2efqzPcm01EgomoGkSbpsYFZz5theGzs
+https://www.youtube.com/playlist?list=PLlBVuTSjOrckzVWHWOYAkyKoQZhmoqH1S
+https://www.youtube.com/playlist?list=PLc5173h9a8LuPIlR1cBek55AmWbmA024u
+https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz
+https://www.youtube.com/playlist?list=PLpdmBGJ6ELULP218wl-CUgoNzVlWYOHsb
+https://www.youtube.com/playlist?list=PLhA3b2k8R3t2Ng1WW_7MiXeh1pfQJQi_P
+https://www.youtube.com/results?search_query=hackthon
+https://www.youtube.com/results?search_query=+i+have+problem+in+instilation+in+tenser+flow
+https://www.youtube.com/results?search_query=%D8%AB%D8%B1%D9%88%D8%AA+%D8%B3%D8%A7%D9%85%D9%8A+flutter
+https://www.youtube.com/@javascriptmastery
+https://www.youtube.com/@what_iz_it
+https://www.youtube.com/@BZUHUB
+https://www.youtube.com/@ai1998
+https://www.youtube.com/@pavelmavrin
+
+DATASETS & KAGGLE
+--------------------------------------------------------------------------------
+https://www.kaggle.com/code/histoire/notebook1e30f9628c
+https://www.kaggle.com/datasets/peace1019/fingerprint-dataset-for-fvc2000-db4-b
+https://www.kaggle.com/competitions/hackathon-online-image-processing
+https://www.kaggle.com/competitions?tagIds=14102-Image
+https://www.kaggle.com/competitions?searchQuery=image
+https://www.kaggle.com/competitions/garbage-segmentation/overview
+https://www.kaggle.com/datasets/parohod/warp-waste-recycling-plant-dataset
+https://www.kaggle.com/code/skalskip/how-to-use-segment-anything-model-sam
+https://www.kaggle.com/datasets/hazrat/urdu-speech-dataset
+https://www.kaggle.com/code/aisuko/automatic-speech-recognition-asr
+https://www.kaggle.com/code/brianokechukwu/converting-speech-to-text
+https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition
+https://www.kaggle.com/code/ahmedabdoamin/speech-recognition-for-arabic-words
+https://www.kaggle.com/code/suraj520/dnn-97-2-val-acc-know-train-infer
+https://www.kaggle.com/code/sathviksprabhu/speech-project
+https://www.kaggle.com/code/jeongbinpark/dnn-by-keras
+
+FLUTTER & MOBILE DEVELOPMENT
+--------------------------------------------------------------------------------
+https://flutter.dev/
+https://docs.flutter.dev/
+https://blog.communicationcrafts.com/flutter-vs-dart/
+https://blog.codemagic.io/flutter-local-authentication-using-biometrics/
+https://pub.dev/packages/local_auth
+https://maharatech.gov.eg/tag/index.php?tc=1&tag=flutter&lang=ar
+
+DATABASE & BACKEND
+--------------------------------------------------------------------------------
+https://www.mysql.com/
+https://database.chessbase.com/
+https://cloud.mongodb.com/v2/65937eb6ce6b5032d9031a1d#/overview
+https://docs.docker.com/
+https://www.guru99.com/nosql-tutorial.html
+
+CYBERSECURITY & HACKING
+--------------------------------------------------------------------------------
+https://www.hacker101.com/
+https://www.hackthebox.com/
+https://tryhackme.com/path/outline/presecurity
+https://tryhackme.com/
+https://attackdefense.com/listingnoauth?labtype=capture-the-flags&subtype=4-node-ctf
+
+DESIGN & UI/UX
+--------------------------------------------------------------------------------
+https://www.figma.com/
+https://www.figma.com/community/file/1195653734101267190/cosmic-free-flutter-app-ui-template
+https://dribbble.com/
+https://www.behance.net/for_you
+https://lottiefiles.com/
+https://www.sketch.com/
+https://freefrontend.com/css-hover-effects/
+https://uiverse.io/
+https://undraw.co/
+https://shapediver.com/
+https://looka.com/
+https://www.imagica.ai/
+https://www.topview.ai/
+
+DEVELOPER TOOLS
+--------------------------------------------------------------------------------
+https://codepen.io/
+https://jsfiddle.net/
+https://jsbin.com/?html,output
+https://replit.com/
+https://stackblitz.com/
+https://codesandbox.io/
+https://regex101.com/
+https://ihateregex.io/
+https://codemagic.io/start/
+https://app.diagrams.net/
+
+MACHINE LEARNING & AI
+--------------------------------------------------------------------------------
+https://www.geeksforgeeks.org/handwritten-digit-recognition-using-neural-network/
+https://chat.openai.com/share/a9f871f1-ea75-4a2a-99d0-c402bf09e4c7
+https://chatgpt.com/c/68242c84-3c84-8000-8326-b3297a77fba4
+https://colab.research.google.com/github/lawrencegranda/garbage_segmentation/blob/main/predictions_and_analysis.ipynb
+https://github.com/IDEA-Research/Grounded-Segment-Anything
+https://samgeo.gishub.org/examples/automatic_mask_generator/
+https://github.com/opengeos/segment-geospatial
+https://lmarena.ai/
+https://lmarena.ai/c/019a2f0a-0eed-7044-93f2-3e903f19d2b3
+https://public-apis.io/
+https://enhancv.com/resources/resume-checker/
+https://www.resumatch.io/ai-resume
+https://readtheory.org/
+https://www.episoden.com/en/
+https://preply.com/
+
+MISCELLANEOUS RESOURCES
+--------------------------------------------------------------------------------
+https://www.brainkart.com/article/Best-First-Search--Concept,-Algorithm,-Implementation,-Advantages,-Disadvantages_8881/
+https://testbook.com/question-answer/five-people-p-q-r-s-and-t-are-standing-in-a-que--5b61736b19213a6baf61b630
+https://chess24.com/en/learn/advanced/video/the-magnus-sicilian/the-magnus-sicilian---introduction
+https://lichess.org/swiss/nVsfmqOJ
+https://pharos.blackbox.com/ultra/courses/_39056_1/outline
+https://www.techtarget.com/searchcio/definition/hackathon
+https://eventornado.com/blog/how-to-organize-hackathon
+https://mcit.gov.eg/en/Events/Event_Details/33405
+https://www.boxentriq.com/code-breaking/cipher-identifier
+https://www.base64decode.org/
+https://mh-nexus.de/en/hxd/
+https://www.hhdsoftware.com/free-hex-editor
+https://en.wikipedia.org/wiki/List_of_file_formats
+https://en.wikipedia.org/wiki/List_of_file_signatures
+https://stylesuxx.github.io/steganography/
+https://www.liquidweb.com/kb/how-to-install-and-configure-flutter-sdk-windows-10/
+https://www.simplilearn.com/what-is-problem-solving-article
+https://ccmit.mit.edu/problem-solving/
+https://www.verywellmind.com/what-is-problem-solving-2795485
+https://asq.org/quality-resources/problem-solving
+
+GOOGLE DRIVE & DOCUMENTS
+--------------------------------------------------------------------------------
+https://docs.google.com/document/d/1HDv1YKL3Fy3je127oF__Sta_flg0NAHLh21Qfj_mgFw/edit?pli=1
+https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit
+https://docs.google.com/forms/d/e/1FAIpQLSf8WGNVSp8zTGC78eS3GvcOKnp4hjzSv3MZOgT3E_PPSrVieQ/viewform
+https://docs.google.com/forms/d/1P-4sgHh0-W592AJw_ZvCBtsSGIbWRX3zDX2PtM9e61I/edit
+https://drive.google.com/drive/folders/1OPgCK2333wuGTPtZtYuOmGuaRuHXlJ8K
+https://drive.google.com/drive/folders/1aHFmU-mrk3ga6MKO1AXv7qfD1oSwPR_6
+https://drive.google.com/drive/folders/120kS-uolQs_ODJaxvIJPLy1M_Q5REUy2
+https://drive.google.com/drive/folders/1mVByZ77Y66IUtm0NIDtTxqN5E4Ja8WR2
+https://drive.google.com/drive/folders/1F0DNJKBFY_Sw0HXat5Q_xW0m6PtYRhH-
+https://drive.google.com/drive/folders/14qjdG27DF2vnHGVssqKY7_vv5GjzPUGt
+https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD
+https://drive.google.com/drive/folders/1cMDyOjaNInRMO8M_U0axwQNgiYDsXzLH
+https://docs.google.com/spreadsheets/d/1nwNw03gRP87ni7-ZH3JJsMGa9bt3URNLGe_osv8zdtM/edit#gid=0
+https://docs.google.com/spreadsheets/d/1lspiEG_XNOeVcMcAl1cpJ3aBldEKkmedVQ-eEdI28sE/edit#gid=0
+https://docs.google.com/spreadsheets/d/10ZXlM_pC_UCzUdDy3D4StZN4kxTtrDnJc7-gMaJJSdE/edit?usp=sharing
+
+PDFs & DOCUMENTS
+--------------------------------------------------------------------------------
+https://www.ripublication.com/irph/ijcsm/IJCSMv3n1_9.pdf
+https://mat.uab.cat/~alseda/MasterOpt/p11-31.pdf
+https://intapi.sciendo.com/pdf/10.2478/v10238-012-0039-2
+
+PROFESSIONAL & CAREER
+--------------------------------------------------------------------------------
+https://www.linkedin.com/jobs/view/4139201910/
+https://www.linkedin.com/in/abdelrahman-wael-42a232282
+https://schneiderele.taleo.net/careersection/2/moresearch.ftl
+https://www.amazon.jobs/en/jobs/2808739/software-development-engineer-internship-2025-us
+https://leetcode.com/discuss/interview-question/6339257/google-l4-interview-experience-offer
+
+JOBS & INTERNSHIPS
+--------------------------------------------------------------------------------
+https://trello.com/b/RrXeJuOU/ipci-fci-zu-training
+https://www.surveymonkey.com/r/WCJ8NRX
+https://www.surveymonkey.com/r/QN2PNQY
+https://forms.gle/8QdNjtLch3j8FDNF9
+https://forms.gle/BkgvKxfrFYzxsWZ68
+https://form.typeform.com/to/VNs4Yd4R
+https://bit.ly/4f05Ewm
+https://bit.ly/4gO9PvO
+https://lnkd.in/divz_VkZ
+https://lnkd.in/gsjWRjta
+https://lnkd.in/g_VFJmvM
+https://lnkd.in/g9Nfb2XB
+https://lnkd.in/dnPaRRQh
+https://lnkd.in/gXypqRad
+https://lnkd.in/gJHGR634
+
+WIKIPEDIA & REFERENCE
+--------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures
+https://en.wikipedia.org/wiki/List_of_file_formats
+https://en.wikipedia.org/wiki/List_of_file_signatures
+https://www.geeksforgeeks.org/zermelo-fraenkel-set-theory-zf/
+
+STATISTICS & MATH RESOURCES
+--------------------------------------------------------------------------------
+https://ecampusontario.pressbooks.pub/introstats/chapter/7-4-confidence-intervals-for-a-population-proportion/
+https://www.testprepreview.com/modules/probabilty.htm
+https://thirdspacelearning.com/blog/probability-questions/
+https://www.hitbullseye.com/Probability-Examples.php
+https://byjus.com/maths/probability-questions/
+https://www.probabilitycourse.com/chapter3/3_1_6_solved3_1.php
+https://www.probabilitycourse.com/chapter4/4_1_4_solved4_1.php
+https://www.probabilitycourse.com/chapter4/4_2_6_solved4_2.php
+https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/
+https://ashutoshtripathi.com/2022/04/17/practice-problems-on-hypothesis-testing/
+https://homework.study.com/learn/sampling-distribution-questions-and-answers.html
+
+ADDITIONAL RESOURCES
+--------------------------------------------------------------------------------
+https://discord.gg/j8AjyCKD
+https://testbook.com/question-answer/five-people-p-q-r-s-and-t-are-standing-in-a-que--5b61736b19213a6baf61b630
+https://www.testprepreview.com/modules/probabilty.htm
+https://www.professormesser.com/
+https://www.tinkercad.com/things/3bH6sxdJBnt-bcd-to-seven-segment-decoder
+https://www.tinkercad.com/things/6VOoPb3mR8Y-auto-2wd
+https://webdamn.com/source-code/download/school-0a9df423-964a-4945-8946
+https://dronebotworkshop.com/elegoo-robot-car-part-3/
+https://blog.miguelgrinberg.com/post/building-an-arduino-robot-part-ii-programming-the-arduino
+https://oxfordhousebcn.com/en/4-conditionals-in-english-and-when-to-use-them/
+https://www.udebug.com/
+https://glarity.app/youtube-summary/science-technology/Introduction-to-Dart-Programming-Language-Part2-13104711_161159
+https://sanfoundry.com/1000-object-oriented-programming-oops-questions-answers/
+https://www.sanfoundry.com/1000-digital-image-processing-questions-answers/
+https://www.sanfoundry.com/1000-computer-graphics-questions-answers/
+https://www.sanfoundry.com/matlab-questions-answers-simulation-1/
+https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/research-and-writing/plan-your-paper/brainstorm-ideas.html
+https://app.outlier.ai/expert/opportunities/4501122005
+https://www.lucidchart.com/pages/uml-use-case-diagram
+https://creately.com/blog/diagrams/activity-diagram-tutorial/
+https://www.lucidchart.com/pages/uml-class-diagram
+
+ARABIC RESOURCES
+--------------------------------------------------------------------------------
+https://nosaed.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d9%84%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a9-%d8%b0%d9%88%d9%8a-%d8%a7%d9%84%d8%a5%d8%b9%d8%a7%d9%82%d8%a9-%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%8a%d9%87/
+https://www.al-fanarmedia.org/ar/2024/05/%d8%a7%d8%b7%d9%84%d8%a7%d9%82-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%b7%d9%84%d8%a7%d8%a8-%d8%ba%d8%b2%d8%a9-%d8%b9%d9%86-%d8%a8%d8%b9%d8%af-%d8%a8%d8%ac%d8%a7/
+https://www.career209.com/2023/03/haya-karima-volunteering.html?m=1
+https://bit.ly/c44---Frontend
+
+================================================================================
+EXTRACTED TEXT CONTENT
+================================================================================
+
+The sequence (A) doesn't create the hash table as the element 52 appears before 23 in this sequence. The sequence (B) doesn't create the hash table as the element 33 appears before 46 in this sequence. The sequence (C) creates the hash table as 42, 23 and 34 appear before 52 and 33, and 46 appears before 33. The sequence (D) doesn't create the hash table as the element 33 appears before 23 in this sequence. Read more at: https://edurev.in/question/536193/A-hash-table-of-length-10-uses-open-addressing-wit
+
+Theoretical Limitations of Accuracy
+
+In reality, it's impossible to achieve 100% accuracy with a machine learning model. The maximum possible accuracy theoretically for any system is known as the Bayes Optimal Error (also known as Bayes Error Rate).
+
+As shown in the graph below, the accuracy increases rapidly until it reaches the Human-level performance threshold. After that, the rate of accuracy improvement slows down.
+
+Accuracy vs Time graph
+
+(Image source: https://rb.gy/8kivby)
+
+Practical Considerations
+
+While it's theoretically impossible to reach 100% accuracy, the actual achievable accuracy depends on various factors, such as:
+
+Dataset quality and complexity: The accuracy of your model is limited by the quality and complexity of your dataset.
+Model architecture and hyperparameters: The choice of model architecture and hyperparameters can significantly impact the achievable accuracy.
+Evaluation metrics: The choice of evaluation metric(s) can influence the perceived accuracy of your model.
+
+Realistic Expectations
+
+In practice, it's essential to set realistic expectations for your model's accuracy. Aiming for an accuracy of 95% or higher may not always be achievable or necessary, depending on the problem you're trying to solve.
+
+SPOKEN ENGLISH PAID COURSE
+
+DON'T BE HESITATE IN SPEAKING ENGLISH...LEARN HOW TO SPEAK ENGLISH THROUGH THIS COURSE
+
+DOWNLOAD LINK: https://drive.google.com/drive/folders/1OPgCK2333wuGTPtZtYuOmGuaRuHXlJ8K
+
+This course help for marketer because this marketing course every people get the knowledge of marketing on network.In this course anyone get like 28 courses.
+
+1) Basics of Marketing
+2) Wordpress Website Creation
+3) Facebook Marketing
+4) Instagram Marketing
+5) Search Engine Optimization (SEO)
+6) Google Analytics
+7) Email Marketing
+8) Landing Pages
+9) Youtube Marketing
+10) Google Shopping Ads
+11) Affiliate Marketing
+12) Google Search Ads
+13) LinkedIn Marketing
+14) Twitter Marketing
+15) App Design
+16) Growth Hack Strategies
+17) Blogging
+18) Google my Business
+19) Graphic Designing
+20) Google Search Console
+21) Video Editing
+22) Google Display Ads
+23) Website Creation
+24) Google Adsense
+25) Quora Marketing
+26) Interview Handling
+27) Freelacing
+28) Google Certificates
+
+
+ECPC🔥 -> https://codeforces.com/contestInvitation/d7bcaf3e18a2412880bec7527581a7c24eca27f6
+
+Static Constant Example:
+static const String baseUrl = "https://api.openweathermap.org/data/2.5";
+
+15 Best Project Ideas for Data Science:
+
+Beginner Level:
+1. Exploratory Data Analysis (EDA) on Titanic Dataset
+2. Netflix Movies/TV Shows Data Analysis
+3. COVID-19 Data Visualization Dashboard
+4. Sales Data Analysis (CSV/Excel)
+5. Student Performance Analysis
+
+Intermediate Level:
+6. Sentiment Analysis on Tweets
+7. Customer Segmentation using K-Means
+8. Credit Score Classification
+9. House Price Prediction
+10. Market Basket Analysis (Apriori Algorithm)
+
+Advanced Level:
+11. Time Series Forecasting (Stock/Weather Data)
+12. Fake News Detection using NLP
+13. Image Classification with CNN
+14. Resume Parser using NLP
+15. Customer Churn Prediction
+
+Essential Programming Languages to Learn Data Science:
+1. Python
+2. R
+3. SQL
+4. Java
+5. Scala
+6. Julia
+7. MATLAB
+
+Important questions to ace your machine learning interview:
+1. Machine Learning Project Lifecycle
+2. Supervised vs Unsupervised Learning
+3. Evaluation Metrics for Regression
+4. Overfitting and Prevention
+5. Bias-Variance Tradeoff
+6. Cross-Validation
+7. Feature Selection Techniques
+8. Assumptions of Linear Regression
+9. Regularization in Linear Models
+10. Classification vs Regression
+11. Dimensionality Reduction Algorithms
+12. Decision Tree
+13. Ensemble Methods
+14. Handling Missing or Corrupted Data
+15. Kernels in Support Vector Machines (SVM)
+
+Git Commands Reference:
+1.Core: git init, git clone, git add, git commit, git status, git diff, git checkout, git reset, git log, git show, git tag, git push, git pull
+2.Branching: git branch, git checkout -b, git merge, git rebase
+3.Stashing: git stash, git stash pop, git stash list, git stash apply, git stash drop
+4.Remotes: git remote, git remote add, git fetch, git pull, git push
+5.Configuration: git config
+
+Data Science & Machine Learning Resources:
+- Pandas: Data Analysis
+- NumPy: Math & Arrays
+- Scikit-learn: Machine Learning
+- TensorFlow / PyTorch: Deep Learning
+- Flask / Django: Web Development
+- OpenCV: Image Processing
+
+JavaScript / TypeScript:
+- React: UI Development
+- Vue: Lightweight SPAs
+- Angular: Enterprise Apps
+- Next.js: Full-Stack Web
+- Express: Backend APIs
+- Three.js: 3D Web Graphics
+
+Free Courses Platforms:
+- udemyxpert.com
+- classcentral.com
+- grow.google/intl/uk/courses-and-tools
+- kaggle.com/learn
+- netacad.com
+- teracourses.com
+
+Job & Internship Platforms:
+- wuzzuf.net
+- linkedin.com
+- flexjobs.com
+
+Top 7 FREE Courses By Udacity:
+1. Introduction to Python Programming
+2. Intro to Java: Functional Programming
+3. SQL for Data Analysis
+4. Intro to Data Analysis
+5. Developing Android Apps with Kotlin
+6. Intro to JavaScript
+7. Intro to Machine Learning
+
+

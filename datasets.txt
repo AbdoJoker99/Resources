@@ -1,0 +1,63 @@
+🚨30 FREE Dataset Sources for Data Science Projects🔥
+
+Data Simplifier: https://datasimplifier.com/best-data-analyst-projects-for-freshers/
+
+US Government Dataset: https://www.data.gov/
+
+Open Government Data (OGD) Platform India: https://data.gov.in/
+
+The World Bank Open Data: https://data.worldbank.org/
+
+Data World: https://data.world/
+
+BFI - Industry Data and Insights: https://www.bfi.org.uk/data-statistics
+
+The Humanitarian Data Exchange (HDX): https://data.humdata.org/
+
+Data at World Health Organization (WHO): https://www.who.int/data
+
+FBI’s Crime Data Explorer: https://crime-data-explorer.fr.cloud.gov/
+
+AWS Open Data Registry: https://registry.opendata.aws/
+
+FiveThirtyEight: https://data.fivethirtyeight.com/
+
+IMDb Datasets: https://www.imdb.com/interfaces/
+
+Kaggle: https://www.kaggle.com/datasets
+
+UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php
+
+Google Dataset Search: https://datasetsearch.research.google.com/
+
+Nasdaq Data Link: https://data.nasdaq.com/
+
+Recommender Systems and Personalization Datasets: https://cseweb.ucsd.edu/~jmcauley/datasets.html
+
+Reddit - Datasets: https://www.reddit.com/r/datasets/
+
+Open Data Network by Socrata: https://www.opendatanetwork.com/
+
+Climate Data Online by NOAA: https://www.ncdc.noaa.gov/cdo-web/
+
+Azure Open Datasets: https://azure.microsoft.com/en-us/services/open-datasets/
+
+IEEE Data Port: https://ieee-dataport.org/
+
+Wikipedia: Database: https://dumps.wikimedia.org/
+
+BuzzFeed News: https://github.com/BuzzFeedNews/everything
+
+Academic Torrents: https://academictorrents.com/
+
+Yelp Open Dataset: https://www.yelp.com/dataset
+
+The NLP Index by Quantum Stat: https://index.quantumstat.com/
+
+Computer Vision Online: http://www.computervisiononline.com/dataset
+
+Visual Data Discovery: https://www.visualdata.io/
+
+Roboflow Public Datasets: https://public.roboflow.com/
+
+Computer Vision Group, TUM: https://vision.in.tum.de/data/datasets
